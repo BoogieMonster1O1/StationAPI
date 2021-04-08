@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>lwjgl</groupId>
+  <artifactId>lwjgl_util</artifactId>
+  <version>2.9.1-nightly-20130708-debug3</version>
+  <versioning>
+    <latest>2.9.1-nightly-20130708-debug3</latest>
+    <release>2.9.1-nightly-20130708-debug3</release>
+    <versions>
+      <version>2.9.1-nightly-20130708-debug3</version>
+    </versions>
+    <lastUpdated>20210206223028</lastUpdated>
+  </versioning>
+</metadata>

@@ -1,0 +1,6 @@
+archivesBaseName = "station-api-lookup-api-v1"
+version = "1.0.0"
+
+moduleDependencies(project, [
+        "station-api-base"
+])

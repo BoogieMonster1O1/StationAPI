@@ -1,6 +1,7 @@
 rootProject.name = "station-api"
 
 include 'station-api-base'
+include 'station-api-lookup-api-v1'
+include 'station-transfer-api-v1' 
 
 //include 'station-registry-api-v0'
-
